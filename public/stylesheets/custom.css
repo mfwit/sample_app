@@ -20,7 +20,9 @@ section {
 	padding: 20px;
 	background: white;
 }
-
+section h1 {
+	font-size: 200%;
+}
 /* Links */
 
 a {
